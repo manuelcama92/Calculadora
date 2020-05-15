@@ -14,4 +14,4 @@ En el caso del punto y coma:
 
 Por completar falta agregar la 
 tecla CE que borre unicamente  parte de lo escrito en pantalla
-tecla de elevar al cuadrado
+tecla de ans, recordar el ultimo version
