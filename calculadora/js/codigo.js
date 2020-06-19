@@ -1,5 +1,5 @@
 /*=============================================
-OBJETO CON LAS PROPIEDADES DE LA CALCULADORA
+OBJETO CON LAS PROPIEDADES DE LA CALCULADORA.
 =============================================*/
 
 var p = {
