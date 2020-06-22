@@ -11,7 +11,7 @@ En el caso del punto y coma:
 2. No se puede conectar uno detras de otro
 3. Solo se puede tener un punto por cuadrado. 
 4. Colores
-.
+
 Por completar falta agregar la 
 tecla CE que borre unicamente  parte de lo escrito en pantalla
 tecla de ans, recordar el ultimo numero encontrado (En proceso)
