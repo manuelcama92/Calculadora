@@ -18,4 +18,4 @@ tecla CE que borre unicamente  parte de lo escrito en pantalla
 tecla de ans, recordar el ultimo numero encontrado (En proceso)
 ponerle parentesis para las operaciones
 
-.
+
