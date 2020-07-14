@@ -18,3 +18,4 @@ tecla de ans, recordar el ultimo numero encontrado (En proceso)
 ponerle parentesis para las operaciones.
 
 
+.
