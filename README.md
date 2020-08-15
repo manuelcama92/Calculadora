@@ -9,7 +9,6 @@ en caso de dar igual la calculadora queda igual al resultado y este se puede seg
 En el caso del punto y coma:
 1. Solo se puede colocar un punto
 2. No se puede conectar uno detras de otro
-3. cambiar diseño botones
 
 
 
