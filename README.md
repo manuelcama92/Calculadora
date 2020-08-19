@@ -8,9 +8,6 @@ se agrego un botom borrar que pone el tablero en 0
 en caso de dar igual la calculadora queda igual al resultado y este se puede seguir operando
 En el caso del punto y coma:
 1. Solo se puede colocar un punto
-2. No se puede conectar uno detras de otro
-
-
 
 Por completar falta agregar la 
 tecla CE que borre unicamente  parte de lo escrito en pantalla
