@@ -6,7 +6,7 @@ si el numero es cero no agrega signos
 si se agrega un signo no se agregan mas signos sino solo numeros
 se agrego un botom borrar que pone el tablero en 0
 en caso de dar igual la calculadora queda igual al resultado y este se puede seguir operando
-En el caso del punto y coma:
+En el caso del punto y coma.
 
 Por completar falta agregar la 
 tecla CE que borre unicamente  parte de lo escrito en pantalla
