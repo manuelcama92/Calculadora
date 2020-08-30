@@ -10,5 +10,5 @@ en caso de dar igual la calculadora queda igual al resultado y este se puede seg
 
 Por completar falta agregar la 
 tecla CE que borre unicamente  parte de lo escrito en pantalla
-tecla de ans, recordar el ultimo numero encontrado.
+tecla de ans, recordar el ultimo numero encontrado
 
